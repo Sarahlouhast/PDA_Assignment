@@ -20,7 +20,8 @@ For further information on running a jupyter notebook in github please see this 
 ### Contents of GitHub repository
 This repository contains the project specifications.
 For more info about the assignment instruction: assignment-instructions.pdf
-https://github.com/Sarahlouhast/PDA_Assignment/blob/main/Data/ProgDAProject.pdf
+https://github.com/Sarahlouhast/PDA_Assignment/blob/main/Data/ProgDAProject.pdf.
+
 The notebook is called 'PfDA_Assignment' https://github.com/Sarahlouhast/PDA_Assignment/blob/main/PfDA_Assignment.ipynb.
 
 ### References
