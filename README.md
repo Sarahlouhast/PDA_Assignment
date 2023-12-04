@@ -7,37 +7,21 @@
 ### Student: Sarah Hastings
 ### ID: G00235562  
 
+### Getting started
+This repository contains the project for the Programming for Data Analysis Module Winter 2023:24
 
-Getting started 
-Contents of GitHub repository
-Packages used in this project
-References
-updates
+This repository contains primarily a Jupyter Notebook with an investigation into simulating a dataset using numpy.random.
 
+To run this notebook you need to have Jupyter, https://jupyter.org/, installed on your machine. It can be installed using the Anaconda python distribution, https://www.anaconda.com/.
 
-This project is for the Programming for Data Analysis Module Winter 2023:24
+For further information on running a jupyter notebook in github please see this article, https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files.
 
-The jupyter notebook in this repository contains the details of the project.
+### Contents of GitHub repository
+This repository contains the project specifications.
+For more info about the assignment instruction: assignment-instructions.pdf
+https://github.com/Sarahlouhast/PDA_Assignment/blob/main/Data/ProgDAProject.pdf
+The notebook is called 'PfDA_Assignment' https://github.com/Sarahlouhast/PDA_Assignment/blob/main/PfDA_Assignment.ipynb.
 
-It is divided into xxx sections including an introduction and a conclusion:
+### References
+All references used in this projects are listed at the end of the project.
 
-For this project you must create a data set by simulating a real-world phenomenon of
-your choosing. You may pick any phenomenon you wish – you might pick one that is
-of interest to you in your personal or professional life. Then, rather than collect data
-related to the phenomenon, you should model and synthesise such data using Python.
-We suggest you use the numpy.random package for this purpose
-
-For this project you must create a data set by simulating a real-world phenomenon of
-your choosing. You may pick any phenomenon you wish – you might pick one that is
-of interest to you in your personal or professional life. Then, rather than collect data
-related to the phenomenon, you should model and synthesise such data using Python.
-We suggest you use the numpy.random package for this purpose
-
-
- Choose a real-world phenomenon that can be measured and for which you could
-collect at least one-hundred data points across at least four different variables.
-• Investigate the types of variables involved, their likely distributions, and their
-relationships with each other.
-• Synthesise/simulate a data set as closely matching their properties as possible.
-• Detail your research and implement the simulation in a Jupyter notebook – the
-data set itself can simply be displayed in an output cell within the notebook.
