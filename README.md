@@ -1,5 +1,5 @@
 # PDA_Assignment
-### PDA_Assignment
+
 ### Programming for Data Analysis 2023 Project 1
 ### Course: Higher Diploma in Data Analytics
 ### Module: Programming for Data Analytics
@@ -8,6 +8,7 @@
 ### ID: G00235562  
 
 ### Getting started
+
 This repository contains the project for the Programming for Data Analysis Module Winter 2023:24
 
 This repository contains primarily a Jupyter Notebook with an investigation into simulating a dataset using numpy.random.
